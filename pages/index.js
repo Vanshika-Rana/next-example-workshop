@@ -24,7 +24,9 @@ export default function Home() {
 					Connect Wallet
 				</ConnectButton>
 				{isConnected && (
-					<h1 className={styles.message}>WAGMI EthIndia!</h1>
+					<h1 className={styles.message}>
+						WAGMI EthIndia! This is a new dapp!!
+					</h1>
 				)}
 
 				{/* Your Modifications Here!!*/}
