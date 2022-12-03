@@ -24,7 +24,7 @@ export default function Home() {
 					Connect Wallet
 				</ConnectButton>
 				{isConnected && (
-					<h1 className={styles.message}>This is an example. </h1>
+					<h1 className={styles.message}>WAGMI EthIndia!</h1>
 				)}
 
 				{/* Your Modifications Here!!*/}
