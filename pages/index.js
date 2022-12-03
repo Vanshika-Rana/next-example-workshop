@@ -25,7 +25,7 @@ export default function Home() {
 				</ConnectButton>
 				{isConnected && (
 					<h1 className={styles.message}>
-						WAGMI EthIndia! This is a new dapp!!
+						WAGMI EthIndia! This is a new dapp!! LFG!!!
 					</h1>
 				)}
 
